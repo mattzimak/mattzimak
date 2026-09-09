@@ -26,7 +26,8 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 - [mattzimak/op-open](https://github.com/mattzimak/op-open) - a tiny https to onepassword:// redirector so Notion links open in the 1Password desktop app.
 - [mattzimak/claude-code-for-founders](https://github.com/mattzimak/claude-code-for-founders) - the skills, hooks, prompts and workflows a founder actually runs with Claude Code across three companies, generated from my own Notion notes; every entry says why it earned its place.
 - [mattzimak/openclaw-for-founders](https://github.com/mattzimak/openclaw-for-founders) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
-- Coming this week: Meet Autopilot for Google Meet (a serverless auto-join extension) and a builder-stack list (design, vibe-coding, media, scraping and GTM tools).
+- [mattzimak/builder-stack-for-founders](https://github.com/mattzimak/builder-stack-for-founders) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools I build with, merged from my Notion notes and the agentmatik.ai link directory.
+- Coming this week: Meet Autopilot for Google Meet, a serverless auto-join Chrome extension.
 
 ## Elsewhere
 
