@@ -24,7 +24,9 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
 - [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) and [DeepGEN-experimental](https://github.com/Deep-Noise-Labs/DeepGEN-experimental) - training and experiment code around Deep Noise's audio models.
 - [mattzimak/op-open](https://github.com/mattzimak/op-open) - a tiny https to onepassword:// redirector so Notion links open in the 1Password desktop app.
-- Coming this week: Meet Autopilot for Google Meet (a serverless auto-join extension) and two curated lists, Claude Code for founders and OpenClaw for founders.
+- [mattzimak/claude-code-for-founders](https://github.com/mattzimak/claude-code-for-founders) - the skills, hooks, prompts and workflows a founder actually runs with Claude Code across three companies, generated from my own Notion notes; every entry says why it earned its place.
+- [mattzimak/openclaw-for-founders](https://github.com/mattzimak/openclaw-for-founders) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
+- Coming this week: Meet Autopilot for Google Meet (a serverless auto-join extension) and a builder-stack list (design, vibe-coding, media, scraping and GTM tools).
 
 ## Elsewhere
 
