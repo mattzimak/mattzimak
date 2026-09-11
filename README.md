@@ -30,6 +30,7 @@ Most of Matt's work runs on agents: company brains written in Markdown that agen
 - [mattzimak/claude-code-handbook](https://github.com/mattzimak/claude-code-handbook) - the skills, hooks, prompts and workflows Matt actually runs with Claude Code across three companies, generated from his own Notion notes; every entry says why it earned its place.
 - [mattzimak/openclaw-handbook](https://github.com/mattzimak/openclaw-handbook) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
 - [mattzimak/builder-stack-handbook](https://github.com/mattzimak/builder-stack-handbook) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools Matt builds with, merged from his Notion notes and the agentmatik.ai link directory.
+- [mattzimak/marketing-handbook](https://github.com/mattzimak/marketing-handbook) - connecting Google Ads and Meta to Claude, the analyses Matt actually runs against them, Search Console audits, cold-email deliverability lessons, and the skills and prompts behind it.
 
 ## Elsewhere
 
