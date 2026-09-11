@@ -22,11 +22,11 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 
 - [agentmatik/template-intelligence](https://github.com/agentmatik/template-intelligence) - the company-brain template: agent-ready Markdown, one `AGENTS.md` operating contract, CI-enforced frontmatter, a curation contract for transcript-driven updates. Use it as a GitHub template.
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
-- [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) and [DeepGEN-experimental](https://github.com/Deep-Noise-Labs/DeepGEN-experimental) - training and experiment code around Deep Noise's audio models.
+- [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) - Foundation-1 fine-tuning fork for Deep Noise Labs, GCS-native dataset handling and training runs.
 - [mattzimak/op-open](https://github.com/mattzimak/op-open) - a tiny https to onepassword:// redirector so Notion links open in the 1Password desktop app.
-- [mattzimak/claude-code-for-founders](https://github.com/mattzimak/claude-code-for-founders) - the skills, hooks, prompts and workflows a founder actually runs with Claude Code across three companies, generated from my own Notion notes; every entry says why it earned its place.
-- [mattzimak/openclaw-for-founders](https://github.com/mattzimak/openclaw-for-founders) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
-- [mattzimak/builder-stack-for-founders](https://github.com/mattzimak/builder-stack-for-founders) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools I build with, merged from my Notion notes and the agentmatik.ai link directory.
+- [mattzimak/claude-code-field-guide](https://github.com/mattzimak/claude-code-field-guide) - the skills, hooks, prompts and workflows I actually run with Claude Code across three companies, generated from my own Notion notes; every entry says why it earned its place.
+- [mattzimak/openclaw-field-guide](https://github.com/mattzimak/openclaw-field-guide) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
+- [mattzimak/builder-stack-field-guide](https://github.com/mattzimak/builder-stack-field-guide) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools I build with, merged from my Notion notes and the agentmatik.ai link directory.
 - Coming this week: Meet Autopilot for Google Meet, a serverless auto-join Chrome extension.
 
 ## Elsewhere
