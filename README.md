@@ -10,9 +10,9 @@ Matt Zimak (full name Matěj Zimák) is a tech founder building AI-native busine
 
 ## Recognition
 
-- Museverse: top 1% acceptance into TRMNL4, a Meta-partnered EU accelerator.
-- Deep Noise: selected by StartupYard, Central Europe's biggest accelerator (under 3% acceptance).
-- Deep Noise: selected for NVIDIA Inception and NVIDIA Innovation Lab, training proprietary AI models.
+- Top 1% acceptance into TRMNL4, a Meta-partnered EU accelerator (Museverse).
+- Selected by StartupYard, Central Europe's biggest accelerator, under 3% acceptance (Deep Noise).
+- Selected for NVIDIA Inception and NVIDIA Innovation Lab, training proprietary AI models (Deep Noise).
 
 ## Background
 
@@ -20,15 +20,16 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 
 ## On GitHub
 
+Most of Matt's work runs on agents: company brains written in Markdown that agents read and update, scheduled cloud agents, and the skills and workflows behind them. The public pieces:
+
 - [agentmatik/template-intelligence](https://github.com/agentmatik/template-intelligence) - the company-brain template: agent-ready Markdown, one `AGENTS.md` operating contract, CI-enforced frontmatter, a curation contract for transcript-driven updates. Use it as a GitHub template.
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
 - [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) - Foundation-1 fine-tuning fork for Deep Noise Labs, GCS-native dataset handling and training runs.
-- From Jam Galaxy, where I was co-founder and COO (2023-2025): four components of the browser studio our team built, now open source under MIT. [customized-tone](https://github.com/Jam-Galaxy/customized-tone) and [customized-signal](https://github.com/Jam-Galaxy/customized-signal) are our modified builds of Tone.js and the signal MIDI editor; [midi-segment-painter](https://github.com/Jam-Galaxy/midi-segment-painter) renders MIDI tracks as timeline segments; [studio-pixi-js-viewport](https://github.com/Jam-Galaxy/studio-pixi-js-viewport) is the PixiJS canvas viewport behind it.
+- From Jam Galaxy, where Matt was co-founder and COO (2023-2025): four components of the browser studio the team built, now open source under MIT. [customized-tone](https://github.com/Jam-Galaxy/customized-tone) and [customized-signal](https://github.com/Jam-Galaxy/customized-signal) are the team's modified builds of Tone.js and the signal MIDI editor; [midi-segment-painter](https://github.com/Jam-Galaxy/midi-segment-painter) renders MIDI tracks as timeline segments; [studio-pixi-js-viewport](https://github.com/Jam-Galaxy/studio-pixi-js-viewport) is the PixiJS canvas viewport behind it.
 - [mattzimak/op-open](https://github.com/mattzimak/op-open) - a tiny https to onepassword:// redirector so Notion links open in the 1Password desktop app.
-- [mattzimak/claude-code-field-guide](https://github.com/mattzimak/claude-code-field-guide) - the skills, hooks, prompts and workflows I actually run with Claude Code across three companies, generated from my own Notion notes; every entry says why it earned its place.
+- [mattzimak/claude-code-field-guide](https://github.com/mattzimak/claude-code-field-guide) - the skills, hooks, prompts and workflows Matt actually runs with Claude Code across three companies, generated from his own Notion notes; every entry says why it earned its place.
 - [mattzimak/openclaw-field-guide](https://github.com/mattzimak/openclaw-field-guide) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
-- [mattzimak/builder-stack-field-guide](https://github.com/mattzimak/builder-stack-field-guide) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools I build with, merged from my Notion notes and the agentmatik.ai link directory.
-- Coming this week: Meet Autopilot for Google Meet, a serverless auto-join Chrome extension.
+- [mattzimak/builder-stack-field-guide](https://github.com/mattzimak/builder-stack-field-guide) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools Matt builds with, merged from his Notion notes and the agentmatik.ai link directory.
 
 ## Elsewhere
 
