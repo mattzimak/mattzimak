@@ -10,9 +10,10 @@ Matt Zimak (full name Matěj Zimák) is a tech founder building AI-native busine
 
 ## Recognition
 
-- Top 1% acceptance into TRMNL4, a Meta-partnered EU accelerator (Museverse).
-- Selected by StartupYard, Central Europe's biggest accelerator, under 3% acceptance (Deep Noise).
-- Selected for NVIDIA Inception and NVIDIA Innovation Lab, training proprietary AI models (Deep Noise).
+- Top 1% acceptance into TRMNL4, the Meta-partnered EU accelerator (Museverse).
+- Accepted into NVIDIA Inception and Innovation Lab, training audio AI models (Deep Noise).
+- Innovation Scout, mentored a 2019 Social Impact Award winner (PwC).
+- Under 3% acceptance into StartupYard, Central Europe's biggest accelerator (Deep Noise).
 
 ## Background
 
