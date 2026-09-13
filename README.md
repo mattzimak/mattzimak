@@ -22,7 +22,7 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 
 Most of Matt's work runs on agents: company brains written in Markdown that agents read and update, scheduled cloud agents, and the skills and workflows behind them. The public pieces:
 
-- [mattzimak/claude-code-setup](https://github.com/mattzimak/claude-code-setup) - the Claude Code hooks, settings and rules Matt actually runs across three companies, with the failure behind each one; every hook tested against when it should fire and when it should stay silent.
+- [mattzimak/matts-claude-code-setup](https://github.com/mattzimak/matts-claude-code-setup) - Matt's Claude Code setup as an installable onboarding: install one plugin, run `/matts-setup:onboard`, answer a few questions, and a blank Claude Code becomes the setup he runs across three companies. Every hook self-tested.
 - [agentmatik/template-intelligence](https://github.com/agentmatik/template-intelligence) - the company-brain template: agent-ready Markdown, one `AGENTS.md` operating contract, CI-enforced frontmatter, a curation contract for transcript-driven updates. Use it as a GitHub template.
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
 - [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) - Foundation-1 fine-tuning fork for Deep Noise Labs, GCS-native dataset handling and training runs.
