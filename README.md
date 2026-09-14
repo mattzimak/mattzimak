@@ -6,7 +6,7 @@ Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, b
 
 - [Agentmatik](https://agentmatik.ai) - the European AI automation agency Matt founded. AI agents, automated workflows, and AI products for executives and SMEs.
 - [Deep Noise](https://deepnoise.ai) - AI audio startup Matt co-founded (CEO). A generative audio engine that creates fully editable audio; home of the [AI Synthesizer](https://aisynthesizer.com).
-- [Museverse](https://museverse.xyz) - XR music-education app Matt co-founded. A mixed reality platform for music education - learn and play real instruments with adaptive social learning, multi-platform (live on Meta Quest; Pico, SteamVR, and Apple Vision Pro coming); the only AI element is tutoring.
+- [Museverse](https://museverse.xyz) - XR music-education app Matt co-founded. A mixed reality platform for music education - learn and play real instruments with adaptive social learning, multi-platform (live in Early Access on the Meta Horizon Store for Meta Quest; Pico, SteamVR, and Apple Vision Pro coming); the only AI element is tutoring.
 
 ## Recognition
 
