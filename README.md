@@ -1,6 +1,6 @@
-# Matt Zimak - Tech founder & AI automation consultant
+# Matt Zimak - Tech founder & fractional AI lead
 
-Matt Zimak (full name Matěj Zimák) is a tech founder building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: hello@mattzimak.com. Full site: [mattzimak.com](https://mattzimak.com).
+Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: hello@mattzimak.com. Full site: [mattzimak.com](https://mattzimak.com).
 
 ## Companies
 
@@ -26,7 +26,7 @@ Most of Matt's work runs on agents: company brains written in Markdown that agen
 - [mattzimak/matts-claude-code-setup](https://github.com/mattzimak/matts-claude-code-setup) - Matt's Claude Code setup as an installable onboarding: install one plugin, run `/matts-setup:onboard`, answer a few questions, and a blank Claude Code becomes the setup he runs across three companies. Every hook self-tested.
 - [agentmatik/template-intelligence](https://github.com/agentmatik/template-intelligence) - the company-brain template: agent-ready Markdown, one `AGENTS.md` operating contract, CI-enforced frontmatter, a curation contract for transcript-driven updates. Use it as a GitHub template.
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
-- [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) - Foundation-1 fine-tuning fork for Deep Noise Labs, GCS-native dataset handling and training runs.
+- [Deep-Noise-Labs/dnl-f1-training](https://github.com/Deep-Noise-Labs/dnl-f1-training) - the Foundation-1 fine-tuning pipeline the Deep Noise engineering team built to train Deep Noise's own audio models, with GCS-native dataset handling and training runs.
 - From Jam Galaxy, which Matt co-founded (2023-2025): four components of the browser studio the team built, now open source under MIT. [customized-tone](https://github.com/Jam-Galaxy/customized-tone) and [customized-signal](https://github.com/Jam-Galaxy/customized-signal) are the team's modified builds of Tone.js and the signal MIDI editor; [midi-segment-painter](https://github.com/Jam-Galaxy/midi-segment-painter) renders MIDI tracks as timeline segments; [studio-pixi-js-viewport](https://github.com/Jam-Galaxy/studio-pixi-js-viewport) is the PixiJS canvas viewport behind it.
 - [mattzimak/op-open](https://github.com/mattzimak/op-open) - a tiny https to onepassword:// redirector so Notion links open in the 1Password desktop app.
 - [mattzimak/claude-code-handbook](https://github.com/mattzimak/claude-code-handbook) - the skills, hooks, prompts and workflows Matt actually runs with Claude Code across three companies, generated from his own Notion notes; every entry says why it earned its place.
@@ -36,4 +36,4 @@ Most of Matt's work runs on agents: company brains written in Markdown that agen
 
 ## Elsewhere
 
-[YouTube](https://www.youtube.com/@mattzimak) - builds, breakdowns, and AI automation walkthroughs · [Substack (mattbullish)](https://www.mattbullish.com) - longer-form thinking on AI, business, and shipping · [Instagram](https://www.instagram.com/mattzimak.ai) - short-form AI experiments and behind the scenes · [LinkedIn](https://www.linkedin.com/in/mattzimak/) · [X](https://x.com/mattzimak)
+[mattzimak.com](https://mattzimak.com) · [LinkedIn](https://www.linkedin.com/in/mattzimak/) · [X](https://x.com/mattzimak)
