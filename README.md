@@ -23,6 +23,7 @@ As a teenager, Matt built one of Czechia's largest streaming platforms, before N
 
 Most of Matt's work runs on agents: company brains written in Markdown that agents read and update, scheduled cloud agents, and the skills and workflows behind them. The public pieces:
 
+- [mattzimak/gbrain-company-brain](https://github.com/mattzimak/gbrain-company-brain) - a skillpack for [gbrain](https://github.com/garrytan/gbrain) that loads a company brain into it with typed pages and typed relationships (who owns an account, which decision replaced which, what was agreed in which meeting), then curates and queries it safely. Scores 10/10 on `gbrain skillpack doctor`, with unit tests and an end-to-end test against a real gbrain in CI.
 - [mattzimak/matts-claude-code-setup](https://github.com/mattzimak/matts-claude-code-setup) - Matt's Claude Code setup as an installable onboarding: install one plugin, run `/matts-setup:onboard`, answer a few questions, and a blank Claude Code becomes the setup he runs across three companies. Every hook self-tested.
 - [agentmatik/template-intelligence](https://github.com/agentmatik/template-intelligence) - the company-brain template: agent-ready Markdown, one `AGENTS.md` operating contract, CI-enforced frontmatter, a curation contract for transcript-driven updates. Use it as a GitHub template.
 - [agentmatik/tubemd](https://github.com/agentmatik/tubemd) - TubeMD, a free MIT Chrome extension that turns any YouTube video into agent-ready Markdown and SKILL.md files, in your browser, with your keys.
