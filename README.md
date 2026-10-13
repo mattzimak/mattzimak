@@ -1,12 +1,6 @@
 # Matt Zimak - Tech founder & fractional AI lead
 
-Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: hello@mattzimak.com. Full site: [mattzimak.com](https://mattzimak.com).
-
-## Companies
-
-- [Agentmatik](https://agentmatik.ai) - the European AI automation agency Matt founded. AI agents, automated workflows, and AI products for executives and SMEs.
-- [Deep Noise](https://deepnoise.ai) - AI audio startup Matt co-founded (CEO). A generative audio engine that creates fully editable audio; home of the [AI Synthesizer](https://aisynthesizer.com).
-- [Museverse](https://museverse.xyz) - XR music-education app Matt co-founded. A mixed reality platform for music education - learn and play real instruments with adaptive social learning, multi-platform (live in Early Access on the Meta Horizon Store for Meta Quest; Pico, SteamVR, and Apple Vision Pro coming); the only AI element is tutoring.
+Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: matt@agentmatik.ai. Full site: [mattzimak.com](https://mattzimak.com).
 
 ## Recognition
 
@@ -16,9 +10,11 @@ Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, b
 - Advised management on turnarounds and deals as a strategy and restructuring consultant, 2017 to 2020. Innovation Scout for the firm (PwC).
 - Under 3% acceptance into StartupYard, Central Europe's biggest accelerator (Deep Noise).
 
-## Background
+## Companies
 
-As a teenager, Matt built one of Czechia's largest streaming platforms, before Netflix arrived, and sold it. Since then: law school (Maastricht University, LL.B and LL.M), strategy consulting and innovation scouting at PwC, venture capital, and co-founding deep-tech startups in generative audio and XR. Today he runs three tech companies and advises businesses on AI automation.
+- [Agentmatik](https://agentmatik.ai) - the European AI automation agency Matt founded. AI agents, automated workflows, and AI products for executives and SMEs.
+- [Deep Noise](https://deepnoise.ai) - AI audio startup Matt co-founded (CEO). A generative audio engine that creates fully editable audio; home of the [AI Synthesizer](https://aisynthesizer.com).
+- [Museverse](https://museverse.xyz) - XR music-education app Matt co-founded. A mixed reality platform for music education - learn and play real instruments with adaptive social learning, multi-platform (live in Early Access on the Meta Horizon Store for Meta Quest; Pico, SteamVR, and Apple Vision Pro coming); the only AI element is tutoring.
 
 ## On GitHub
 
@@ -37,6 +33,10 @@ Most of Matt's work runs on agents: company brains written in Markdown that agen
 - [mattzimak/openclaw-handbook](https://github.com/mattzimak/openclaw-handbook) - install choices, memory patterns, security rules, token-burn notes and skills from running OpenClaw for real, with the longer field notes in a separate file.
 - [mattzimak/builder-stack-handbook](https://github.com/mattzimak/builder-stack-handbook) - the design references, component libraries, prompt packs, media stack, scrapers and GTM tools Matt builds with, merged from his Notion notes and the agentmatik.ai link directory.
 - [mattzimak/marketing-handbook](https://github.com/mattzimak/marketing-handbook) - connecting Google Ads and Meta to Claude, the analyses Matt actually runs against them, Search Console audits, cold-email deliverability lessons, and the skills and prompts behind it.
+
+## Background
+
+As a teenager, Matt built one of Czechia's largest streaming platforms, before Netflix arrived, and sold it. Since then: law school (Maastricht University, LL.B and LL.M), strategy consulting and innovation scouting at PwC, venture capital, and co-founding deep-tech startups in generative audio and XR. Today he runs three tech companies and advises businesses on AI automation.
 
 ## Elsewhere
 
