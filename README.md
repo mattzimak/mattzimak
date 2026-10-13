@@ -10,6 +10,7 @@ Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, b
 
 ## Recognition
 
+- [Claude Certified Architect - Foundations](https://www.credly.com/badges/9f11a83d-fbb3-430b-a46e-ccd0aa886abc/public_url), issued by Anthropic - designing and building production-grade applications with Claude: Claude Code, the Claude Agent SDK, the Claude API and MCP. Verifiable on Credly (Matt Zimak).
 - Top 1% acceptance into TRMNL4, the Meta-partnered EU accelerator (Museverse).
 - Accepted into NVIDIA Inception and Innovation Lab, training audio AI models (Deep Noise).
 - Innovation Scout, mentored a 2019 Social Impact Award winner (PwC).
