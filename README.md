@@ -1,10 +1,10 @@
 # Matt Zimak - Tech founder & fractional AI lead
 
-Matt Zimak (full name Matěj Zimák) is a tech founder and fractional AI lead, building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: matt@agentmatik.ai. Full site: [mattzimak.com](https://mattzimak.com).
+Matt Zimak is a tech founder and fractional AI lead, building AI-native businesses and advising companies on AI automation - AI agents and automated workflows. He works with clients and partners across Europe and the US. Contact: matt@agentmatik.ai. Full site: [mattzimak.com](https://mattzimak.com).
 
 ## Recognition
 
-- [Claude Certified Architect - Foundations](https://www.credly.com/badges/9f11a83d-fbb3-430b-a46e-ccd0aa886abc/public_url), issued by Anthropic - designing and building production-grade applications with Claude: Claude Code, the Claude Agent SDK, the Claude API and MCP. Verifiable on Credly (Matt Zimak).
+- [Claude Certified Architect - Foundations](https://www.credly.com/badges/9f11a83d-fbb3-430b-a46e-ccd0aa886abc/public_url), issued by Anthropic - designing and building production-grade applications with Claude: Claude Code, the Claude Agent SDK, the Claude API and MCP. Verifiable on Credly.
 - Top 1% acceptance into TRMNL4, the Meta-partnered EU accelerator (Museverse).
 - Accepted into NVIDIA Inception and Innovation Lab, training audio AI models (Deep Noise).
 - Advised management on turnarounds and deals as a strategy and restructuring consultant, 2017 to 2020. Innovation Scout for the firm (PwC).
