@@ -12,11 +12,11 @@ Matt Zimak is a tech founder and fractional AI lead, building AI-native business
 
 ## How I build (YC's read of my Claude Code sessions)
 
-For my Y Combinator application in September 2026, [YC's Paxel](https://paxel.ycombinator.com/results/26rju91a) read 89 of my Claude Code sessions (April to September 2026) and summed them up as: "You turn messy company workflows into repo-backed operating systems, then push Claude Code until the architecture matches reality." The report needs a YC login and is region-restricted, so here is the short version:
+[YC's Paxel](https://paxel.ycombinator.com/results/26rju91a) read 89 of my Claude Code sessions, April to September 2026 (YC login, region-restricted):
 
-- 449 hours over 89 sessions, 340 commits and 757,305 lines, all by directing agents rather than typing code; the longest single session ran 16 hours.
-- 443 logged decisions, 300 of them architectural; 75% of build sessions started from a written plan, with up to 7 agent sessions running at once.
-- Strengths it named: a skills loop that writes each lesson back into my setup, so later sessions start from better defaults; product judgment where trust is at stake. Growth areas: validation closure, cleanup passes, review checkpoints in autonomous builds.
+- "You turn messy company workflows into repo-backed operating systems, then push Claude Code until the architecture matches reality."
+- 449 hours, 340 commits, 757,305 lines, all by directing agents rather than typing code.
+- 443 logged decisions, 300 architectural; 75% of builds started from a written plan, and each lesson goes back into my setup as a skill or rule.
 
 ## Companies
 
