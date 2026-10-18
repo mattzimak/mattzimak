@@ -12,15 +12,11 @@ Matt Zimak is a tech founder and fractional AI lead, building AI-native business
 
 ## How I build (YC's read of my Claude Code sessions)
 
-In September 2026, for my Y Combinator application, YC's Paxel analysed 89 of my Claude Code sessions (April to September 2026). Its one-line read: "You turn messy company workflows into repo-backed operating systems, then push Claude Code until the architecture matches reality." The numbers behind it, all from directing agents, none hand-written:
+For my Y Combinator application in September 2026, [YC's Paxel](https://paxel.ycombinator.com/results/26rju91a) read 89 of my Claude Code sessions (April to September 2026) and summed them up as: "You turn messy company workflows into repo-backed operating systems, then push Claude Code until the architecture matches reality." The report needs a YC login and is region-restricted, so here is the short version:
 
-- 449 hours across 89 sessions; 27 deep sessions averaging 157 minutes of uninterrupted focus; the longest single session 16 hours
-- 757,305 lines across 340 commits; 75% of build sessions started from a plan (52 of 69); up to 7 agent sessions running at once
-- 443 logged decisions, 300 of them architecture; the most frequent patterns: workflow from the user backwards (40), audit completeness (28), codify the lesson (18)
-
-Strengths it named: a skills loop that writes lessons back into setup files, skills and routing rules so later sessions start from better defaults (seen in 27 of 89 sessions); product judgment where trust is at stake; turning AI mistakes into better architecture. Growth areas it named: validation closure on setup tasks, cleanup passes after broad builds, review checkpoints in autonomous builds. Its labels for how I work with AI: "Dances with Robots" (150 evidence points), "Frame Breaker", "Architect's Veto", "Cognitive Breadth".
-
-The full report sits on my YC account. Paxel is region-restricted, so this is the summary.
+- 449 hours over 89 sessions, 340 commits and 757,305 lines, all by directing agents rather than typing code; the longest single session ran 16 hours.
+- 443 logged decisions, 300 of them architectural; 75% of build sessions started from a written plan, with up to 7 agent sessions running at once.
+- Strengths it named: a skills loop that writes each lesson back into my setup, so later sessions start from better defaults; product judgment where trust is at stake. Growth areas: validation closure, cleanup passes, review checkpoints in autonomous builds.
 
 ## Companies
 
