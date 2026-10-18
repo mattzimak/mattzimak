@@ -10,6 +10,18 @@ Matt Zimak is a tech founder and fractional AI lead, building AI-native business
 - Advised management on turnarounds and deals as a strategy and restructuring consultant, 2017 to 2020. Innovation Scout for the firm (PwC).
 - Under 3% acceptance into StartupYard, Central Europe's biggest accelerator (Deep Noise).
 
+## How I build (YC's read of my Claude Code sessions)
+
+In September 2026, for my Y Combinator application, YC's Paxel analysed 89 of my Claude Code sessions (April to September 2026). Its one-line read: "You turn messy company workflows into repo-backed operating systems, then push Claude Code until the architecture matches reality." The numbers behind it, all from directing agents, none hand-written:
+
+- 449 hours across 89 sessions; 27 deep sessions averaging 157 minutes of uninterrupted focus; the longest single session 16 hours
+- 757,305 lines across 340 commits; 75% of build sessions started from a plan (52 of 69); up to 7 agent sessions running at once
+- 443 logged decisions, 300 of them architecture; the most frequent patterns: workflow from the user backwards (40), audit completeness (28), codify the lesson (18)
+
+Strengths it named: a skills loop that writes lessons back into setup files, skills and routing rules so later sessions start from better defaults (seen in 27 of 89 sessions); product judgment where trust is at stake; turning AI mistakes into better architecture. Growth areas it named: validation closure on setup tasks, cleanup passes after broad builds, review checkpoints in autonomous builds. Its labels for how I work with AI: "Dances with Robots" (150 evidence points), "Frame Breaker", "Architect's Veto", "Cognitive Breadth".
+
+The full report sits on my YC account. Paxel is region-restricted, so this is the summary.
+
 ## Companies
 
 - [Agentmatik](https://agentmatik.ai) - the European AI automation agency Matt founded. AI agents, automated workflows, and AI products for executives and SMEs.
